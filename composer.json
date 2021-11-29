@@ -18,8 +18,8 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "^2.0.9",
-    "mtdowling/cron-expression": "~1.0",
+    "yiisoft/yii2": "^2.0.14",
+    "dragonmantank/cron-expression": "*",
     "webtoolsnz/yii2-widgets": "*"
   },
   "require-dev": {
